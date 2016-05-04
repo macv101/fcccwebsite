@@ -1,0 +1,156 @@
+@charset "UTF-8";
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper {
+	width: 800px;
+	background-color: #FFFFFF;
+	margin-right: auto;
+	margin-left: auto;
+}
+#wrapper #logo_hdr {
+	height: 100px;
+	background-color: #FFFFFF;
+}
+#wrapper #navigation {
+	height: 31px;
+	background-color: #C0B59F;
+}
+#wrapper #header_img {
+	height: 175px;
+	background-color: #FFFFFF;
+}
+a img {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#wrapper #bodyArea #left {
+	width: 150px;
+	float: left;
+	background-color: #FFFFFF;
+}
+#wrapper #bodyArea #left #side_bar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	text-align: left;
+	padding-right: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 5px;
+	vertical-align: text-bottom;
+}
+#wrapper #bodyArea #right {
+	width: 650px;
+	float: right;
+	background-color: #E4E2D4;
+}
+#wrapper #bodyArea #right #home_content #welcome {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	height: 75px;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-bottom: 0px;
+	padding-left: 30px;
+	border-bottom-width: medium;
+	border-bottom-style: solid;
+	border-bottom-color: #372010;
+}
+#wrapper #bodyArea #right #home_content #hope_flyer {
+	height: 450px;
+	padding-top: 10px;
+	padding-left: 55px;
+}
+#wrapper #bodyArea #right #home_content #coming_up {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #372010;
+	padding-top: 5px;
+	padding-left: 30px;
+	font-size: 18px;
+	padding-bottom: 5px;
+}
+#wrapper #bodyArea #right #home_content #alaala {
+	height: 100px;
+	padding-top: 5px;
+	padding-right: 30px;
+	padding-bottom: 5px;
+	padding-left: 55px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+#wrapper #bodyArea #right #home_content #service_times {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+	height: 600px;
+	padding-top: 25px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+#wrapper #bodyArea #right #home_content #hope_copy {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	height: 150px;
+	padding-top: 15px;
+	padding-right: 20px;
+	padding-left: 25px;
+	text-align: left;
+}
+#wrapper #bodyArea #footer {
+	height: 20px;
+	clear: both;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #999999;
+	background-color: #332114;
+}
+p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	margin: 15px;
+}
+#wrapper #bodyArea #right #home_content #lg_hope {
+	height: 720px;
+	padding-top: 20px;
+	padding-left: 90px;
+	padding-bottom: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+#wrapper #bodyArea #right #coming_soon {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000000;
+	height: 500px;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+#wrapper #bodyArea #right #home_content #believe {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+	height: 100px;
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-bottom: 15px;
+	padding-right: 20px;
+	font-size: 12px;
+}
+#wrapper #bodyArea #right #home_content #the_experience {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	height: 200px;
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 50px;
+	text-align: left;
+}

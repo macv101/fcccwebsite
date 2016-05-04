@@ -1,0 +1,9 @@
+#imageShadow{
+	float: right;
+	background: url(../../images/imageShadow.png) no-repeat 0px 0px;
+}
+
+#imageTint{
+	float: left;
+	background: url(../../images/tint80.png);
+}

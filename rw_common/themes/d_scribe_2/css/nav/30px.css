@@ -1,0 +1,10 @@
+#toolbar{ height: 30px; }
+#toolbar ul{ background: url(../../images/toolbar_30.jpg) no-repeat 0px 0px; height: 30px; }
+#toolbar ul ul{ top:30px; }
+#toolbar ul li{ height: 30px; }
+#toolbar ul li a{ padding: 7px 0 3px 0; }
+#toolbar ul li span{ height: 17px; margin-top: 0px; }
+
+.navDown { top: 11px; }
+
+#featureImage, .slide{ top: 48px; height: 263px; }

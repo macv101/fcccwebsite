@@ -1,0 +1,26 @@
+#contentBackground{
+	background: url(../../images/contentGrad.jpg) no-repeat;
+}
+
+#contentBackgroundX{
+	background: url(../../images/contentGrad-x.jpg) repeat-y;
+}
+
+#contentContainer{
+	width: 670px;
+	float: left;
+}
+
+h2#sideTitle{
+	text-shadow: #696969 0px 1px 1px;
+}
+
+
+#sidebarContainer{
+	float: left;
+	padding: 50px 20px 20px 35px;
+}
+
+#blog-categories a, #blog-archives a, .blog-tag-cloud li a, #blog-rss-feeds a{
+	color: #bbb;
+}

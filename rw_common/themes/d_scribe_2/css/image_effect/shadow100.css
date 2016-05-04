@@ -1,0 +1,10 @@
+#imageShadow{	
+	float: right;
+	width: 925px;
+	height: 285px;
+	background: url(../../images/imageShadow-Full100.png) no-repeat 0px 0px;
+}
+
+#imageTint{
+	display: none;	
+}

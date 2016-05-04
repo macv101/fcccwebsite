@@ -1,0 +1,34 @@
+#contentBackground{
+	background: url(../../images/contentGrad-Left-Light.jpg) no-repeat;
+}
+
+#contentBackgroundX{
+	background: url(../../images/contentGrad-Left-Light-x.jpg) repeat-y;
+}
+
+#contentContainer{
+	width: 670px;
+	float: right;
+}
+
+h2#sideTitle{
+	text-shadow: #fff 0px 1px 1px;
+}
+
+#sidebarContainer{
+	float: left;
+	padding: 50px 35px 20px 20px;
+}
+
+#blog-categories a, #blog-archives a, .blog-tag-cloud li a, #blog-rss-feeds a{
+	color: #444;
+}
+
+#blog-categories a:hover, #blog-archives a:hover, .blog-tag-cloud li a:hover, #blog-rss-feeds a:hover{
+	color: #111;
+	border-color: #888;
+}
+
+#blog-archives, #blog-categories, ul.blog-tag-cloud{
+	border-color: #c6c6c6;
+}

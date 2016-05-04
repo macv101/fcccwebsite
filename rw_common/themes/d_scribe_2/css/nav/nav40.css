@@ -1,0 +1,14 @@
+#toolbar{ height: 40px; }
+#toolbar ul{ background: url(../../images/toolbar_40.jpg) no-repeat 0px 0px; height: 40px; }
+#toolbar ul li{ height: 40px; }
+#toolbar ul li a{ padding: 10px 0 9px; }
+#toolbar ul li span{ height: 23px; margin-top: -3px; }
+
+.navDown { top: 16px; }
+
+#wrapperInner {	background: url('../../images/glow-nav40.png') no-repeat 50% 0%; }
+#topWrapper{height: 69px; overflow:visible; z-index:10; }
+#featureImage{ display: none; }
+#top{ height: 228px; padding-top: 10px; }
+#contentBackground{ min-height:400px; height:auto !important; height:400px; }
+#contentBackgroundX{ min-height:500px; height:auto !important; height:500px; }

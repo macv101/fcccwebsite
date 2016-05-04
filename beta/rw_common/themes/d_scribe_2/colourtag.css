@@ -1,0 +1,174 @@
+body {
+	color: #595959;
+	background-color: #002F57;
+}
+
+#topWrapper{
+	background-color: #001E38;
+}
+
+#contentWrapper{
+	background-color: #001E38;
+	border-bottom-color: #002545;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+}
+
+#contentContainer {
+	border-color: #005EAE;
+}
+
+a:link, a:visited {
+	color: #585D40;
+}
+
+a:hover, a:active {
+	color: #848B60;
+}
+		
+h1.title{
+	color: #FFFFFF;
+}
+		
+h2.slogan{
+	color: #999485;
+}
+
+h2.slogan a:link,
+h2.slogan a:visited,
+h2.slogan a:active{
+	color: #898989;
+}
+
+h2.slogan a:hover{
+	color: #A3A3A3;
+}
+
+h1, h2, h3, h4, h5, h6, label, .album-title{
+	color: #585D40;
+}
+
+blockquote, code {
+	background: #EAEAEA;
+	color: #444444;
+	border-bottom: 1px solid #DDDDDD;
+}
+
+#myExtraContent3 h1,
+#myExtraContent3 h2,
+#myExtraContent3 h3,
+#myExtraContent3 h4,
+#myExtraContent3 h5,
+#myExtraContent3 h6{
+	color: #FFFFFF;
+}
+
+#myExtraContent3 {
+	color: #EFE5D4;
+}
+
+#myExtraContent3 a{
+	color: #D2AE86;
+}
+
+#myExtraContent3 a:hover{
+	border-bottom: 1px solid #695743;
+}
+
+.searchFiller{
+	color: #7D7D7D !important;
+}
+
+#toolbar ul {
+	border-top: 7px solid #7D7D7D;
+}
+
+#toolbar ul a:hover {
+	border-top: 7px solid #969696;
+}
+
+#toolbar ul li a{
+	color: #444343;
+	text-shadow: #FFFFFF 0 1px 0px;
+}
+
+#toolbar ul li a:hover{
+	color: #737171;
+}
+
+#toolbar #current,
+#toolbar .currentAncestor {
+	border-top: 7px solid #969696;
+	color: #7A7878;
+}
+
+#toolbar ul li ul li a {
+	color: #57544F;
+	text-shadow: #FFFFFF 0 1px 0;
+}
+
+#toolbar ul li ul li a:hover {
+	color: #827E76;
+}
+
+#toolbar ul li ul li #current,
+#toolbar ul li ul li .currentAncestor {
+	color: #938E86;
+}
+
+.blog-entry-title a {
+	color: #585D40;
+}
+
+.blog-entry-title a:hover {
+	color: #64694C;
+}
+
+.photo-title{
+	color: #FFFFFF;
+}
+
+.photo-caption{
+	color: #7D7D7D;
+}
+
+.photo-links{
+	color: #515151;
+}
+
+.photo-navigation a{
+	color: #7D7D7D;
+}
+
+.photo-navigation a:hover{
+	color: #BBBBBB;
+}
+
+#sidebarContainer h1, 
+#sidebarContainer h2,
+#sidebarContainer h3, 
+#sidebarContainer h4,
+#sidebarContainer h5, 
+#sidebarContainer h6{
+	color: #CCCCCC;
+}
+
+h2#sideTitle{
+	color: #090908;
+}
+
+#sidebarContainer, #myExtraContent2 {
+	color: #BCBAAA;
+}
+
+#sidebarContainer a, #myExtraContent2 a{
+	color: #CCCCCC;
+}
+
+#sidebarContainer a:hover, #myExtraContent2 a:hover{
+	color: #FFFFFF;
+}
+
+#breadcrumb span{
+	color: #C9C9C9;
+}

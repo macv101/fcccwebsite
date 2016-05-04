@@ -1,0 +1,11 @@
+#contentBackground{
+	background: url(../../images/contentGrad-Full.jpg) no-repeat;
+}
+
+#contentBackgroundX{
+	background: #fff;
+}
+
+#sidebarContainer{
+	display: none;
+}

@@ -1,0 +1,7 @@
+#badge .rapidSearch{
+	display: block;
+}
+
+#badge .googleSearch{
+	display: none;	
+}

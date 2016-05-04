@@ -1,0 +1,9 @@
+#toolbar{ height: 40px; }
+#toolbar ul{ background: url(../../images/toolbar_40.jpg) no-repeat 0px 0px; height: 40px; }
+#toolbar ul li{ height: 40px; }
+#toolbar ul li a{ padding: 12px 0 8px; }
+#toolbar ul li span{ height: 23px; margin-top: -3px; }
+
+.navDown { top: 16px; }
+
+#featureImage, .slide{ top: 58px; height: 253px; }

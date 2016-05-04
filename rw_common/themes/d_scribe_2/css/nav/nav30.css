@@ -1,0 +1,15 @@
+#toolbar{ height: 30px; }
+#toolbar ul{ background: url(../../images/toolbar_30.jpg) no-repeat 0px 0px; height: 30px; }
+#toolbar ul li{	height: 30px; }
+#featureImage{ top: 48px; }
+#toolbar ul li a{ padding: 5px 0 3px; }
+#toolbar ul li span{ height: 17px; margin-top: 0px; }
+
+.navDown { top: 11px; }
+
+#wrapperInner {	background: url('../../images/glow-nav30.png') no-repeat 50% 0%; }
+#topWrapper{ height: 59px; overflow:visible; z-index:10; }
+#featureImage{ display: none; }
+#top{ height: 228px; padding-top: 0; }
+#contentBackground{ min-height:400px; height:auto !important; height:400px; }
+#contentBackgroundX{ min-height:500px; height:auto !important; height:500px; }
